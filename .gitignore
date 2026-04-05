@@ -1,0 +1,25 @@
+# Build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/CMakeLists.txt.user
+/compile_commands.json
+/*.o
+/*.obj
+/*.a
+/*.so
+/*.dylib
+/*.exe
+
+# Editor files
+*~
+*.swp
+*.swo
+*.kate-swp
+.idea/
+.vscode/
+.DS_Store
+
+# Generated data/logs
+/data/flexql.wal
+*.log
