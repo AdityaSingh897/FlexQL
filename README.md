@@ -180,3 +180,4 @@ INSERT INTO users VALUES (2, 'Bob', 8.1, '2026-01-01 10:05:00'); -- uses default
 SELECT * FROM users;
 SELECT name, score FROM users WHERE id = 1;
 ```
+# FlexQL
